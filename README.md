@@ -1,6 +1,6 @@
-# Maged Soft Task
+# Magdsoft Task
 
-magdsoft mobile application task for flutter.
+Magdsoft mobile application task for flutter.
 
 ## Getting Started
 
