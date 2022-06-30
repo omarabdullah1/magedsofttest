@@ -1,6 +1,6 @@
 # magedsofttask
 
-magdsoft mobile application test for flutter.
+magdsoft mobile application task for flutter.
 
 ## Getting Started
 
