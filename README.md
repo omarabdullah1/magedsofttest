@@ -1,4 +1,4 @@
-# magedsofttask
+# Maged Soft Task
 
 magdsoft mobile application task for flutter.
 
