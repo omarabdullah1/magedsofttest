@@ -1,5 +1,6 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
+import 'package:magedsofttest/presentation/styles/colors.dart';
 import '../../../data/local/cache_helper.dart';
 
 class SplashScreen extends StatefulWidget {
@@ -25,8 +26,9 @@ class _SplashScreenState extends State<SplashScreen> {
         () => Navigator.pushNamedAndRemoveUntil(
             context, id == null ? '/login' : '/profile', (route) => false));
     return Scaffold(
+      backgroundColor: AppColor.primary,
       body: Center(
-        child: Image.asset('assets/images/logo.png'),
+        child: Image.asset('assets/images/logo2.png'),
       ),
     );
   }
