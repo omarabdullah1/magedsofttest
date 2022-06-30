@@ -1,0 +1,20 @@
+{
+  "email": "Email",
+  "lang": "عربي",
+  "login": "Login",
+  "password": "Password",
+  "pleaseEnterYourEmailAddress": "Please Enter Your Email Address",
+  "pleaseEnterYourPassword": "Please Enter Your Password",
+  "register": "Register",
+  "pleaseEnterYourFullName": "Please Enter Your Full Name",
+  "fullName": "Full Name",
+  "pleaseEnterYourPhone": "Please Enter Your Phone",
+  "phone": "Phone",
+  "passwordNotMatch": "Password not match",
+  "phoneWrong": "Phone wrong: Must be between 11 to 15 number",
+  "confirmPassword": "Confirm Password",
+  "loginSuccessfully": "Login Successfully",
+  "pleaseCheckUsernameAndPassword": "Please check the username and password",
+  "logout": "Logout",
+  "userData": "User Data"
+}

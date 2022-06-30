@@ -1,0 +1,20 @@
+{
+  "email": "البريد الإلكتروني",
+  "lang": "English",
+  "login": "تسجيل الدخول",
+  "password": "كلمة المرور",
+  "pleaseEnterYourEmailAddress": "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك",
+  "pleaseEnterYourPassword": "من فضلك أدخل رقمك السري",
+  "register": "تسجيل",
+  "pleaseEnterYourFullName": "من فضلك ادخل اسمك الكامل",
+  "fullName": "الاسم الكامل",
+  "pleaseEnterYourPhone": "الرجاء إدخال رقم هاتفك",
+  "phone": "هاتف",
+  "passwordNotMatch": "كلمة السر ليست متطابقة",
+  "phoneWrong": "رقم الهاتف خطأ: يجب أن يكون بين 11 إلى 15 رقمًا",
+  "confirmPassword": "تأكيد كلمة المرور",
+  "loginSuccessfully": "تم تسجيل الدخول بنجاح",
+  "pleaseCheckUsernameAndPassword": "يرجى التحقق من اسم المستخدم وكلمة المرور",
+  "logout": "تسجيل خروج",
+  "userData": "بيانات المستخدم"
+}
