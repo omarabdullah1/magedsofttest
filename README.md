@@ -6,13 +6,10 @@ A new Flutter project.
 
 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
 ![loginarabic](https://github.com/omarabdullah1/magedsofttest/blob/master/screenshots/loginarabic.png)
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![loginenglish](https://github.com/omarabdullah1/magedsofttest/blob/master/screenshots/loginenglish.png)
+![registerenglish](https://github.com/omarabdullah1/magedsofttest/blob/master/screenshots/registerenglish.png)
+![resgisterarabic](https://github.com/omarabdullah1/magedsofttest/blob/master/screenshots/resgisterarabic.png)
+![splashscreen](https://github.com/omarabdullah1/magedsofttest/blob/master/screenshots/splashscreen.png)
+![userprofilearabic](https://github.com/omarabdullah1/magedsofttest/blob/master/screenshots/userprofilearabic.png)
+![userprofileenglish](https://github.com/omarabdullah1/magedsofttest/blob/master/screenshots/userprofileenglish.png)
