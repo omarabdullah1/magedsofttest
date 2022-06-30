@@ -1,6 +1,6 @@
-# magedsofttest
+# magedsofttask
 
-A new Flutter project.
+magdsoft mobile application test for flutter.
 
 ## Getting Started
 
